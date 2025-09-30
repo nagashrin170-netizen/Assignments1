@@ -16,7 +16,7 @@ public class Assignment1 {
        System.out.println("2.Order placed :" + order);
        
       //3. Person's phone number: "123-456-7890"
-       long Phone = 123-456-7890;
+       String Phone = "123-456-7890";
        System.out.println("3.Phone Number:" + Phone);
        
       //4. Amount of money in a customer's bank account: 1000.50 
